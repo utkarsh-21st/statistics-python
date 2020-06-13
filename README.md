@@ -1,7 +1,7 @@
-# statistics-python
+# statistics-python - notebook.ipynb
 Hypothesis testing and basic data analysis in python
 
-# Data Description
+# Data Description - insurance.csv
 The data at hand contains medical costs of people
 characterized by certain attributes.
 
